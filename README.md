@@ -1,2 +1,2 @@
-# satranç-uygulaması-
+# SATRANÇ
 Sekiz adet Kale bir Satranç tahtasına bir birini yemeyecek şekilde yerleştirilecektir.  Kalelerin konumu rastgele sayı kullanılarak belirlenecek. Birinci kale yerleştirildikten sonra ikinci Kalenin konumu rastgele belirlenecek ancak kalelerin bir birini yememesi için gerekli kontrol yapılacak. Eğer bir birini yeme durumu varsa son kalenin konumu yeniden rastgele belirlenecek. Her aşamada ekrana matris görünümünde çizim sağlanacaktır. Sekiz kale de yerleştirilene kadar benzer şekilde işlemler gerçekleştirilecektir
